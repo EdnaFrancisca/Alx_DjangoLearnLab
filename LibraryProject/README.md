@@ -1,1 +1,2 @@
-# Library Project - Django Setup
+# LibraryProject  
+This is my first Django project setup for learning.
