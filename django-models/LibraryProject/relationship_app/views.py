@@ -1,3 +1,6 @@
+from django.contrib.auth import login
+from django.contrib.auth.forms import UserCreationForm
+
 from django.views.generic.detail import DetailView
 from django.http import HttpResponse
 from django.shortcuts import render, get_object_or_404
